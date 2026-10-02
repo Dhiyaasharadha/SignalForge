@@ -1,0 +1,8 @@
+{
+  "name": "SignalForge – Explainable Market Intelligence Platform",
+  "description": "Explainable stock forecasting platform following a complete Data Science lifecycle with multi-model consensus, feature attribution, and interactive what-if market simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
